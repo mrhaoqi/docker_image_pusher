@@ -5,7 +5,7 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 
-apache/hadoop:3.2.4
+apache/hadoop:3.3.6
 flink:1.18.1-scala_2.12-java11
 bitnami/spark:3.3.2
 starrocks/allin1-ubuntu:3.2.11
