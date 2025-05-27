@@ -5,10 +5,7 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 
-mysql:8.0
-apache/hadoop:3.3.6
-apache/flink:1.17.2-scala_2.12-java11
-starrocks/allin1-ubuntu
-dataelem/dinky:1.0.2
-prom/prometheus:v2.47.1
-grafana/grafana:10.1.0
+apache/hadoop:3.2.4
+flink:1.18.1-scala_2.12-java11
+bitnami/spark:3.3.2
+starrocks/allin1-ubuntu:3.2.11
